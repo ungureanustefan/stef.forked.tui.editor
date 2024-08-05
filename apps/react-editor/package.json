@@ -1,6 +1,6 @@
 {
   "name": "react-editor-stef-fork",
-  "version": "3.2.4",
+  "version": "3.2.5",
   "description": "TOAST UI Editor for React (Stef Fork)",
   "files": [
     "dist",
@@ -8,6 +8,7 @@
   ],
   "main": "dist/toastui-react-editor.js",
   "module": "dist/esm/index.js",
+  "types": "index.d.ts", 
   "scripts": {
     "test:types": "tsc",
     "lint": "eslint .",
