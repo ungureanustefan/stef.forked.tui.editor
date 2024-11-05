@@ -1,6 +1,6 @@
 {
   "name": "react-editor-stef-fork",
-  "version": "3.3.0",
+  "version": "3.3.3",
   "description": "TOAST UI Editor for React (Stef Fork)",
   "files": [
     "dist",
@@ -36,7 +36,7 @@
     "react-dom": "^18.3.1"
   },
   "dependencies": {
-    "@toast-ui/editor": "^3.2.2"
+    "editor-stef-fork": "^3.3.2"
   },
   "publishConfig": {
     "access": "public"
