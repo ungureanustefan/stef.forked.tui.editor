@@ -91,12 +91,12 @@ export const nodeTypeWriters: ToMdNodeTypeWriterMap = {
 
           state.setDelim(prevDelim);
         }
-        state.write('\n');
+        state.write('<br>');
       } else {
         state.convertInline(node);
 
         if (nextParaNode) {
-          state.write('\n');
+          state.write('<br>');
         } else {
           state.closeBlock(node);
         }
