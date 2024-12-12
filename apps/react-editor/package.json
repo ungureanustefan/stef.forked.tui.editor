@@ -1,6 +1,6 @@
 {
   "name": "react-editor-stef-fork",
-  "version": "3.3.32",
+  "version": "3.3.4",
   "description": "TOAST UI Editor for React (Stef Fork)",
   "files": [
     "dist",
@@ -28,12 +28,12 @@
   "license": "MIT",
   "browserslist": "last 2 versions, ie 11",
   "peerDependencies": {
-    "react": "^18.0.1"
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.3",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "dependencies": {
     "@toast-ui/editor": "^3.2.2"
